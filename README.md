@@ -47,9 +47,6 @@ To use the weather forecast website, follow these steps:
 
 
 
-##  Tutorial
-
-Weather website Tutorial- https://youtu.be/WZNG8UomjSI
 ## Acknowledgements
 
  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
