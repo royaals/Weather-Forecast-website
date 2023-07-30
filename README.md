@@ -91,9 +91,9 @@ To install the weather forecast website locally, follow these steps:
 ## 🛠 Skills
 
 
-**Programming Language:** C, C++, Java, Python
+**Programming Language:** C, C++, Java, Python,JavaScript
 
-**Front-end:** HTML, CSS, JavaScript, React.js
+**Front-end:** HTML, CSS, React.js
 
 **Back-end:** Node.js, Express, Django
 
